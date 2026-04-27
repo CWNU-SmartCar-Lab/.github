@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 🏎️ CWNU-SmartCar-Lab 组织导航
@@ -36,7 +38,10 @@
 
 
 
-Uploading lv_0_20240817161100.mp4…
+
+
+https://github.com/user-attachments/assets/7fea9882-771d-4dd1-922e-b98690b46248
+
 
 
 
