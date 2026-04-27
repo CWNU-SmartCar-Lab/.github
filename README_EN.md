@@ -34,11 +34,7 @@ Established in 2022, we are a smart car racing team focused on autonomous drivin
   <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
 </div>
 
-<div align="center">
-  <video src="https://github.com/CWNU-SmartCar-Lab/CWNU-SmartCar-Lab/raw/main/Assets/lv_0_20240817161100.mp4" controls="controls" width="80%" muted>
-    您的浏览器不支持视频标签。
-  </video>
-</div>
+https://github.com/CWNU-SmartCar-Lab/CWNU-SmartCar-Lab/raw/main/Assets/lv_0_20240817161100.mp4
 
 ---
 
