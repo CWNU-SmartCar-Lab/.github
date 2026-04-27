@@ -34,10 +34,7 @@ Established in 2022, we are a smart car racing team focused on autonomous drivin
   <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
 </div>
 
-<div align="center">
-  <video src="./Assets/lv_0_20240817161100.mp4" controls="controls" muted="muted" width="80%">
-  </video>
-</div>
+
 
 ---
 

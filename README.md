@@ -37,10 +37,7 @@
 </div>
 
 
-<div align="center">
-  <video src="./Assets/video_20260427_220932.mp4" controls="controls" muted="muted" width="80%">
-  </video>
-</div>
+
 
 
 ---
