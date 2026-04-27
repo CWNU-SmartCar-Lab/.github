@@ -37,12 +37,10 @@
 </div>
 
 
-
-
-
-https://github.com/user-attachments/assets/7fea9882-771d-4dd1-922e-b98690b46248
-
-
+<div align="center">
+  <video src="./Assets/video_20260427_220932.mp4" controls="controls" muted="muted" width="80%">
+  </video>
+</div>
 
 
 ---
