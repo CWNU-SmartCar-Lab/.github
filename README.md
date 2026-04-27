@@ -31,7 +31,7 @@
 我们是一个专注于自动驾驶底盘、SLAM 建图算法、底层电机控制以及嵌入式系统开发的极客团队。在这里，代码与硬件碰撞出激情的火花，理论与实践结合于真实的赛道之上。我们致力于打破学科壁垒，培养具备软硬件全栈开发能力的工程师。
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/1e1e2e/f38ba8?text=Working+in+the+Lab" alt="Lab Work" width="80%">
+  <img src="Assets/mmexport1777296392742.jpg" alt="Lab Work" width="80%">
 </div>
 
 ---
@@ -87,11 +87,11 @@
 *见证我们开源项目的成长轨迹，感谢每一个为我们点亮 Star 的开发者！*
 
 <div align="center">
-  <a href="https://star-history.com/#CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-&CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-&Date">
+  <a href="https://star-history.com/#CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-,CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-,CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-,CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-&type=Date" width="80%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" width="80%" />
     </picture>
   </a>
 </div>
