@@ -31,7 +31,13 @@ Welcome to the **CWNU-SmartCar-Lab**!
 Established in 2022, we are a smart car racing team focused on autonomous driving, image processing, embodied AI, SLAM mapping algorithms, low-level motor control, and embedded system development. We have won multiple national and provincial awards in smart car, embedded, and robotics competitions. Here, code and hardware collide to spark passion, and theory meets practice on the real racetrack. We are committed to breaking down disciplinary barriers and cultivating engineers with full-stack software and hardware development capabilities.
 
 <div align="center">
-  <img src="Assets/mmexport1777296392742.jpg" alt="Lab Work" width="80%">
+  <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
+</div>
+
+<div align="center">
+  <video src="Assets/Video_1721922290892.mp4" controls="controls" width="80%">
+    您的浏览器不支持视频标签。
+  </video>
 </div>
 
 ---
