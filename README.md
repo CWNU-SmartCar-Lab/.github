@@ -31,9 +31,14 @@
 我们是一个成立于2022年专注于自动驾驶，图像处理，具身智能、SLAM 建图算法、底层电机控制以及嵌入式系统开发的智能车竞赛团队，在智能车嵌入式和机器人比赛中获得过多项国家级和省级奖项。在这里，代码与硬件碰撞出激情的火花，理论与实践结合于真实的赛道之上。我们致力于打破学科壁垒，培养具备软硬件全栈开发能力的工程师。
 
 <div align="center">
-  <img src="Assets/mmexport1777296392742.jpg" alt="Lab Work" width="80%">
+  <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
 </div>
 
+<div align="center">
+  <video src="Assets/Video_1721922290892.mp4" controls="controls" width="80%">
+    您的浏览器不支持视频标签。
+  </video>
+</div>
 ---
 
 ## ⏱️ 考核时间与标准
