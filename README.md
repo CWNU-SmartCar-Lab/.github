@@ -35,10 +35,11 @@
 </div>
 
 <div align="center">
-  <video src="Assets/Video_1721922290892.mp4" controls="controls" width="80%">
+  <video src="Assets/lv_0_20240817161100.mp4" controls="controls" width="80%">
     您的浏览器不支持视频标签。
   </video>
 </div>
+
 ---
 
 ## ⏱️ 考核时间与标准
