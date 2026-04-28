@@ -10,7 +10,7 @@
 
 *Exploring Smart Technology, Racing in the Open Source World*
 
-<img src="Assets/mmexport1724150737023.jpg" alt="Lab Banner" width="100%">
+<img src="../assets/cover.jpg" alt="Lab Banner" width="100%">
 
 </div>
 
@@ -31,15 +31,15 @@ Welcome to the **CWNU-SmartCar-Lab**!
 Established in 2022, we are a smart car racing team focused on autonomous driving, image processing, embodied AI, SLAM mapping algorithms, low-level motor control, and embedded system development. We have won multiple national and provincial awards in smart car, embedded, and robotics competitions. Here, code and hardware collide to spark passion, and theory meets practice on the real racetrack. We are committed to breaking down disciplinary barriers and cultivating engineers with full-stack software and hardware development capabilities.
 
 <div align="center">
-  <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
 </div>
 
 <div align="center">
-  <img src="Assets/IMG_20241208_085226.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20241208_085226.jpg" alt="Lab Work" width="80%">
 </div>
 
 <div align="center">
-  <img src="Assets/IMG_20241019_181501.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20241019_181501.jpg" alt="Lab Work" width="80%">
 </div>
 
 
@@ -65,7 +65,7 @@ Want to join us and fight alongside the masters? Here are the assessment milesto
 
 ## 🗺️ Repository Guide
 
-We manage and accumulate our core technical assets through GitHub. Below is the navigation for the organization's core repositories, divided into open source and internal archives:
+We manage and accumulate our core technical ../assets through GitHub. Below is the navigation for the organization's core repositories, divided into open source and internal archives:
 
 ### 🟢 Open Source Projects
 *Embrace open source, share our wheels with the world. Stars and Forks are welcome!*

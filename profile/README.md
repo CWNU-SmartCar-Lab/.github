@@ -12,7 +12,7 @@
 
 *探索智能科技，驰骋开源世界*
 
-<img src="Assets/mmexport1724150737023.jpg" alt="Lab Banner" width="100%">
+<img src="../assets/cover.jpg" alt="Lab Banner" width="100%">
 
 </div>
 
@@ -33,15 +33,15 @@
 我们是一个成立于2022年专注于自动驾驶，图像处理，具身智能、SLAM 建图算法、底层电机控制以及嵌入式系统开发的智能车竞赛团队，在智能车嵌入式和机器人比赛中获得过多项国家级和省级奖项。在这里，代码与硬件碰撞出激情的火花，理论与实践结合于真实的赛道之上。我们致力于打破学科壁垒，培养具备软硬件全栈开发能力的工程师。
 
 <div align="center">
-  <img src="Assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
 </div>
 
 <div align="center">
-  <img src="Assets/IMG_20241208_085226.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20241208_085226.jpg" alt="Lab Work" width="80%">
 </div>
 
 <div align="center">
-  <img src="Assets/IMG_20241019_181501.jpg" alt="Lab Work" width="80%">
+  <img src="../assets/IMG_20241019_181501.jpg" alt="Lab Work" width="80%">
 </div>
 
 
