@@ -96,19 +96,8 @@ The growth of a hardcore lab is inseparable from the hard work of every member a
 
 ---
 
-### 📈 Open Source Impact (Star History)
+test
 
-*Witness the growth trajectory of our open-source projects. Thank you to every developer who gives us a Star!*
-
-<div align="center">
-  <a href="https://star-history.com/#CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" width="80%" />
-    </picture>
-  </a>
-</div>
 
 ## 💌 Message to You
 
