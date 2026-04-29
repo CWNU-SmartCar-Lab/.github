@@ -98,20 +98,6 @@
 
 ---
 
-### 📈 开源影响力 (Star History)
-
-*见证我们开源项目的成长轨迹，感谢每一个为我们点亮 Star 的开发者！*
-
-<div align="center">
-  <a href="https://star-history.com/#CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CWNU-SmartCar-Lab/CWNU-SmartCar-Lab&type=Date" width="80%" />
-    </picture>
-  </a>
-</div>
-
 ## 💌 寄语
 
 > *"Talk is cheap. Show me the code... and let the car run!"*
