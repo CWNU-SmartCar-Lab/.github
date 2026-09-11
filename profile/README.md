@@ -67,7 +67,7 @@
 
 ## 🗺️ 仓库指南<a id="仓库指南"></a>
 
-> https://gitee.com/CWNU-SmartCar-Lab
+> **Gitee相同仓库链接**[https://gitee.com/CWNU-SmartCar-Lab](https://gitee.com/CWNU-SmartCar-Lab)
 
 我们通过 GitHub 管理并沉淀我们的核心技术资产。以下是组织内的核心仓库导航，分为开源与内部存档两部分：
 
