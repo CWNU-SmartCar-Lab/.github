@@ -89,6 +89,7 @@
 | :--- | :---: | :--- | :---: |
 | **LADRC_Control** | `Control` | **LADRC 调参方法**：线性自抗扰控制 (LADRC) 算法实战落地、代码封装及详细调参指南。 | [🔒 内部访问](https://github.com/CWNU-SmartCar-Lab/LADRC_Control) |
 | **Smart-Car-Private** | `Archive` | **往届核心代码库**：历届智能车比赛的优秀代码合集、方案设计图与复盘文档存档。 | [🔒 内部访问](https://github.com/CWNU-SmartCar-Lab/Smart-Car-Private) |
+| **Burning-Formula** | `Archive` | **每届管理、比赛经历**：历届实验室管理经验、比赛容易踩坑的地方。|[🔒 内部访问](https://github.com/CWNU-SmartCar-Lab/Burning-Formula)|
 
 ---
 
