@@ -1,111 +1,141 @@
 <div align="center">
 
-# 🏎️ CWNU-SmartCar-Lab Organization Navigation
+# 🏎️ CWNU-SmartCar-Lab
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-CWNU_SmartCar_Lab-181717?style=for-the-badge&logo=github)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge)](#)
+**China West Normal University Smart Car Lab · Organization Hub**
 
-**🌐 [English](./README_EN.md) | [简体中文](./README.md)**
+<p align="center">
+  <a href="https://github.com/CWNU-SmartCar-Lab"><img src="https://img.shields.io/badge/GitHub-CWNU--SmartCar--Lab-181717?style=for-the-badge&logo=github" alt="GitHub Org" /></a>
+  <a href="https://gitee.com/CWNU-SmartCar-Lab"><img src="https://img.shields.io/badge/Gitee-Mirror-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee Mirror" /></a>
+  <img src="https://img.shields.io/badge/Since-2022-0969DA?style=for-the-badge" alt="Since 2022" />
+  <img src="https://img.shields.io/badge/Status-Active-2DA44E?style=for-the-badge" alt="Status Active" />
+</p>
 
-*Exploring Smart Technology, Racing in the Open Source World*
+**🌐 [简体中文](./README.md) | English**
 
-<img src="../assets/cover.jpg" alt="Lab Banner" width="100%">
+*Exploring Smart Technology, Racing in the Open-Source World*
+
+<p align="center">
+  <img src="../assets/cover.jpg" alt="CWNU-SmartCar-Lab Smart Car Showcase" width="420" />
+</p>
+
+[🔬 About the Lab](#about) &nbsp;·&nbsp; [⏱️ Recruitment](#recruitment) &nbsp;·&nbsp; [🗺️ Repositories](#repositories) &nbsp;·&nbsp; [🤝 Contributing](#contributing) &nbsp;·&nbsp; [💌 Message](#message)
 
 </div>
 
 ---
 
-## 📑 Table of Contents
-- [🔬 About the Lab](#-about-the-lab)
-- [⏱️ Assessment Schedule & Criteria](#️-assessment-schedule--criteria)
-- [🗺️ Repository Guide](#️-repository-guide)
-- [🤝 Acknowledgements & Contributions](#-acknowledgements--contributions)
-- [💌 Message to You](#-message-to-you)
+## 🔬 About the Lab<a id="about"></a>
+
+Welcome to **CWNU-SmartCar-Lab** (Smart Car Lab, China West Normal University)!
+
+Founded in **2022**, we are a collegiate engineering and robotics competition team dedicated to **intelligent vehicles, embedded systems, and autonomous robotics**. Over the years, our team has earned multiple national and provincial awards in events including the National University Students Intelligent Car Race (including the Outdoor Track National Finals) and the Sichuan University Students Robot Competition.
+
+Here, code meets hardware and theory is put to the test on the real racetrack. Across four core domains, we strive to bridge disciplinary boundaries and cultivate full-stack engineers skilled in both software and hardware:
+
+- **🤖 Autonomous Driving & Embodied AI:** Exploring decision-making, reinforcement learning, and autonomous driving algorithms on mobile robotic platforms.
+- **👁️ Computer Vision & SLAM:** Working on image processing, OpenCV perception pipelines, and ROS / ROS 2 LiDAR SLAM navigation.
+- **⚙️ Embedded Systems & Control:** Building MCU driver architectures, multi-sensor interfaces, closed-loop motor control, and Linear Active Disturbance Rejection Control (LADRC).
+- **🔧 Hardware & Mechanical Design:** Covering schematic design, component selection, PCB layout and routing, board soldering/debugging, and 3D-printed structures.
+
+### 📸 Lab & Competition Highlights
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="../assets/IMG_20240724_114912.jpg" alt="19th National University Students Intelligent Car Race Western Division" width="100%" /><br />
+      <sub><b>19th Intelligent Car Race · Western Division</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="../assets/IMG_20241208_085226.jpg" alt="19th National University Students Intelligent Car Race Outdoor Track National Finals" width="100%" /><br />
+      <sub><b>19th Intelligent Car Race · Outdoor Track National Finals</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="../assets/IMG_20241019_181501.jpg" alt="9th Sichuan University Students Robot Competition 2024" width="100%" /><br />
+      <sub><b>9th Sichuan University Students Robot Competition (2024)</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="../assets/mmexport1777296392742.jpg" alt="Late-night pre-race debugging session" width="100%" /><br />
+      <sub><b>Late-Night Pre-Race Prep · Track Testing &amp; Debugging</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔬 About the Lab
+## ⏱️ Recruitment & Assessment<a id="recruitment"></a>
 
-Welcome to the **CWNU-SmartCar-Lab**!
-Established in 2022, we are a smart car racing team focused on autonomous driving, image processing, embodied AI, SLAM mapping algorithms, low-level motor control, and embedded system development. We have won multiple national and provincial awards in smart car, embedded, and robotics competitions. Here, code and hardware collide to spark passion, and theory meets practice on the real racetrack. We are committed to breaking down disciplinary barriers and cultivating engineers with full-stack software and hardware development capabilities.
+Want to join the team and build real robots together? Here are the tracks and milestones for our **Rising Star Program**:
 
-<div align="center">
-  <img src="../assets/IMG_20240724_114912.jpg" alt="Lab Work" width="80%">
-</div>
+### 🎯 Tracks & Prerequisites
 
-<div align="center">
-  <img src="../assets/IMG_20241208_085226.jpg" alt="Lab Work" width="80%">
-</div>
+| Track | Core Skills & Expectations |
+| :--- | :--- |
+| **Embedded&nbsp;Systems** | Master common MCU peripheral drivers, UART and other communication protocols, and build a solid foundation in control theory. |
+| **Linux&nbsp;&amp;&nbsp;Vision** | Work comfortably in Linux development environments, understand image processing fundamentals, use OpenCV proficiently, and gain familiarity with ROS / ROS 2. |
+| **Hardware&nbsp;&amp;&nbsp;Mechanics** | Master schematic design, IC/component selection, PCB layout and routing, circuit soldering and troubleshooting, and basic 3D printing skills. |
 
-<div align="center">
-  <img src="../assets/IMG_20241019_181501.jpg" alt="Lab Work" width="80%">
-</div>
+### 📅 Assessment Timeline
 
-
----
-
-## ⏱️ Assessment Schedule & Criteria
-
-Want to join us and fight alongside the masters? Here are the assessment milestones and guides for the Lab's Rising Star Program:
-
-* **Traditional Embedded Systems:** Master common peripheral driving methods, serial and other communication protocols, and possess a fundamental understanding of control theory.
-* **Linux Vision:** Master development environments under Linux, learn image processing techniques, be proficient in OpenCV, and have a solid understanding of the ROS framework.
-* **Hardware:** Familiar with schematic design, chip selection, PCB layout and routing, circuit soldering and repair, and mastery of 3D printing technology.
-
-
-| Assessment Stage | Schedule | Goals & Criteria |
+| Stage | Annual Schedule | Goals & Evaluation Focus |
 | :---: | :---: | :--- |
-| **Initial Test (Phase 1)** | Mid-September annually | **Basic Skills** |
-| **Final Exam (Final)** | End of October annually | **Project Practical** |
+| **Phase 1**<br /><sub>Initial Screening</sub> | Mid-September | **Foundations:** Assess fundamental concepts and core toolchain proficiency in your chosen track. |
+| **Final**<br /><sub>Hands-On Exam</sub> | Late October | **Practical Project:** Evaluate hands-on implementation, debugging, and engineering execution through a complete mini-project. |
 
-> **💡 Tip:** Attitude determines altitude! Compared to your current technical reserves, we value your continuous learning ability, your resilience to fight bugs to the end, and your team spirit.
+> **💡 Tip:** Mindset matters more than where you start! Beyond your current technical background, we value a strong drive to keep learning, the grit to track down tough bugs, and reliable teamwork.
 
 ---
 
-## 🗺️ Repository Guide
+## 🗺️ Repository Guide<a id="repositories"></a>
 
-We manage and accumulate our core technical ../assets through GitHub. Below is the navigation for the organization's core repositories, divided into open source and internal archives:
+> **🚀 Gitee Mirror (China):** [https://gitee.com/CWNU-SmartCar-Lab](https://gitee.com/CWNU-SmartCar-Lab)
+>
+> We manage and preserve our core technical assets across both **GitHub** and **Gitee** (mirror for faster access in mainland China), with GitHub serving as our primary hub.
 
 ### 🟢 Open Source Projects
-*Embrace open source, share our wheels with the world. Stars and Forks are welcome!*
 
-| Repository | Tags | Description | Link |
-| :--- | :---: | :--- | :---: |
-| **Lidar_SLAM_Car-RDKX5-** | `ROS` `SLAM` | **LiDAR Mapping Upper-Computer Software:** Implementation of LiDAR SLAM algorithms and deployment of the upper-computer control system based on the RDK X5 platform. | [🔗 Visit Repo](https://github.com/CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-) |
-| **Lidar_SLAM_Car-STM32F411-** | `Embedded` | **LiDAR Mapping Lower-Computer & Hardware:** Contains chassis low-level kinematics solvers, hardware driver code, as well as core hardware schematics and PCB design files. | [🔗 Visit Repo](https://github.com/CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-) |
-| **vofa_uart** | `vofa usart` | **Serial Port Tuning Code & Methods:** A tool for serial port parameter tuning, utilizing the Justfloat protocol of the Vofa+ software and command frame parsing, with customizable response frames. | [🔗 Visit Repo](https://github.com/CWNU-SmartCar-Lab/vofa_uart) |
+*Embracing open source and sharing the tools we build — Stars and Forks are always welcome!*
 
+| Repository | Tags | Description |
+| :--- | :---: | :--- |
+| 🔗&nbsp;[**Lidar_SLAM_Car-RDKX5-**](https://github.com/CWNU-SmartCar-Lab/Lidar_SLAM_Car-RDKX5-) | `ROS 2` `SLAM` | **LiDAR SLAM Host Software:** Onboard control system for the RDK X5 platform integrating the YDLidar SDK and ROS 2 LiDAR driver for perception and SLAM deployment. |
+| 🔗&nbsp;[**Lidar_SLAM_Car-STM32F411-**](https://github.com/CWNU-SmartCar-Lab/Lidar_SLAM_Car-STM32F411-) | `STM32` `PCB` | **LiDAR Car MCU Firmware & Hardware:** STM32F411 chassis firmware and motherboard files featuring closed-loop speed control, LADRC, VOFA+ tuning interface, peripheral drivers, and EasyEDA schematics/PCB. |
+| 🔗&nbsp;[**vofa_uart**](https://github.com/CWNU-SmartCar-Lab/vofa_uart) | `VOFA+` `UART` | **Embedded Serial Tuning Library:** Lightweight UART communication framework for VOFA+, supporting JustFloat / Firewater / Rawdata protocols and customizable command-frame parsing with weak-symbol portability. |
 
-### 🔴 Internal Projects (Closed Source)
-*The lab's core technical barriers and legacy, accessible only to internal organization members.*
+### 🔒 Internal Archives
 
-| Repository | Tags | Description | Link |
-| :--- | :---: | :--- | :---: |
-| **LADRC_Control** | `Control` | **LADRC Tuning Methods:** Practical implementation, code encapsulation, and detailed tuning guide for Linear Active Disturbance Rejection Control (LADRC) algorithms. | [🔒 Internal Access](https://github.com/CWNU-SmartCar-Lab/LADRC_Control) |
-| **Smart-Car-Private** | `Archive` | **Past Core Codebases:** A collection of excellent code, scheme design diagrams, and review documents from past smart car competitions. | [🔒 Internal Access](https://github.com/CWNU-SmartCar-Lab/Smart-Car-Private) |
+*Core lab technical archives and internal training materials, accessible to organization members only.*
 
----
-
-## 🤝 Acknowledgements & Contributions
-
-The growth of a hardcore lab is inseparable from the hard work of every member and the technical accumulation of our predecessors:
-* Thanks to every senior lab member who stayed up late watching waveforms, tuning PIDs, and soldering boards.
-* Thanks to the open-source community for providing many excellent underlying frameworks, allowing us to stand on the shoulders of giants.
-* **Contribution Guidelines:** Organization members who need to update code should follow the `Feature Branch` workflow, actively submit Pull Requests, and complete Code Review before merging.
+| Repository | Tags | Description |
+| :--- | :---: | :--- |
+| 🔒&nbsp;[**LADRC_Control**](https://github.com/CWNU-SmartCar-Lab/LADRC_Control) | `Control` `C` | **LADRC Control Library:** C implementation of Tracking Differentiator (TD), Extended State Observer (ESO), and Linear Feedback (LF), paired with practical tuning guides. |
+| 🔒&nbsp;[**Smart-Car-Private**](https://github.com/CWNU-SmartCar-Lab/Smart-Car-Private) | `Archive` | **Competition Codebase Archive:** Historical smart car competition codebases, hardware/software designs, and post-mortems organized by year and category. |
+| 🔒&nbsp;[**Burning-Formula**](https://github.com/CWNU-SmartCar-Lab/Burning-Formula) | `Archive` `Docs` | **Lab Heritage & Competition Playbook:** Accumulated team management practices, competition preparation notes, and hard-won lessons from past seasons. |
+| 🔒&nbsp;[**machine_learning_tutorial**](https://github.com/CWNU-SmartCar-Lab/machine_learning_tutorial) | `PyTorch` `RL` | **Hands-On Machine Learning Course:** A 10-lesson interactive PyTorch tutorial for lab members, progressing from CartPole prediction and control to CNNs, Attention, and PPO reinforcement learning. |
 
 ---
 
+## 🤝 Acknowledgements & Contributing<a id="contributing"></a>
 
+The growth of a hardcore engineering lab depends on every member's dedication and the legacy passed down by our seniors:
 
+- **To Our Seniors:** Thank you to every teammate who stayed up late reading waveforms, tuning PID loops, soldering PCBs, and standing by the track.
+- **To Open Source:** Thank you to the open-source community for the frameworks and toolchains that let us stand on the shoulders of giants.
+- **Internal Workflow:** Organization members should follow the `Feature Branch` workflow, open **Pull Requests** for updates, and complete **Code Review** before merging.
+- **Community Contributions:** External developers are welcome to open **Issues** with feedback or submit **Pull Requests** to help improve our public repositories.
 
-## 💌 Message to You
+---
+
+## 💌 Message to You<a id="message"></a>
 
 > *"Talk is cheap. Show me the code... and let the car run!"*
 
-May you not only write elegant and efficient code here, but also meet a group of like-minded comrades. On the track of smart cars, don't be afraid of errors; bravely explore and learn through trial and error, and let your code race at full speed in the real world!
+May you not only write clean, reliable code here, but also meet teammates who share your passion. On the smart car track, never fear bugs or setbacks — stay curious, iterate boldly, and let your code race at full speed in the real world!
 
 ---
+
 <div align="center">
   <b>Made with ⚡️ and 💻 by CWNU-SmartCar-Lab</b>
 </div>
